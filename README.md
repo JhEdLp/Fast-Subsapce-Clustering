@@ -11,3 +11,7 @@ You can Download the HSI from: https://www.ehu.eus/ccwintco/index.php/Hyperspect
 
 
 Run the main file to preform Subspace clustering with efficiente similrity constrain
+
+# License
+
+This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the Lisence file for details.
