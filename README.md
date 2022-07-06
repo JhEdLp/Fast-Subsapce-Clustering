@@ -14,4 +14,4 @@ Run the main file to preform Subspace clustering with efficiente similrity const
 
 # License
 
-This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the [Lisence] file for details.
+This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the Lisence file for details.
